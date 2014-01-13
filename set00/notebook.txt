@@ -6,3 +6,16 @@ Date  Who       Start  Stop  Interruptions Question TimeOnTask    Comments
 1/8   xiangyu   21:16  23:29 5 + 5         6        133           Racket exercise 1 to 10
 1/10  xiangyu   23:45  23:55               5        10            handwrite the "recipe" and post it
 1/12  xiangyu   13:43  13:57               4        14            post "About me" to Piazza
+
+Total Time On Task Q1 (minutes)                  64 
+Total Time On Task Q2 (minutes)                  92
+Total Time On Task Q3 (minutes)                  5(not recorded) 
+Total Time On Task Q4 (minutes)                  14 
+Total Time On Task Q5 (minutes)                  10 
+Total Time On Task Q6 (minutes)                  300 
+TOTQ1 (hours and tenths)                         1.07 
+TOTQ2 (hours and tenths)                         1.53
+TOTQ3 (hours and tenths)                         0.08
+TOTQ4 (hours and tenths)                         0.23
+TOTQ5 (hours and tenths)                         0.17
+TOTQ6 (hours and tenths)                         5
