@@ -1,6 +1,0 @@
-#lang racket
-(define (convertFToC fahrenheit) (*(- fahrenheit 32) (/ 5 9)))
-
-(convertFToC 32)
-(convertFToC 100)
-(convertFToC 105)
